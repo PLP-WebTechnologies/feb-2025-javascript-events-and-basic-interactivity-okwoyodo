@@ -1,0 +1,22 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+#myDiv {
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: darkblue;
+    }body
+{
+}
